@@ -30,15 +30,12 @@ p {
 }
 body {
     background-color: silver;
-    font-family: 'Tahoma';
+    font-family: 'MV Boli';
 }
 
 h1 {
     text-align: center;
     color: red;
-    font-family: Arial;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
-hyper {
-    <br><button onclick="contact.html='default.asp'">
-}
