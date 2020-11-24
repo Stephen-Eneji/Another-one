@@ -1,3 +1,9 @@
+body {
+    background-image: url(../img/Beautiful/back1.jpg);
+    background-size: contain;
+    background-repeat: repeat-x;
+    background-repeat: repeat-y;
+}
 <style> 
     a:link {
         color: green;
